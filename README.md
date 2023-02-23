@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvnielx
+- 👋 Hi, I’m Daniela :)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on projects
