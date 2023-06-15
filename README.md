@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniela :)
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning js & react
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me dgonzalezcs@outlook.com
 
